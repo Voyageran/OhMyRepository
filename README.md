@@ -1,0 +1,2 @@
+# OhMyRepository
+Just for fun
